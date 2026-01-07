@@ -3,7 +3,7 @@ timezone: Asia/Shanghai
 # Site settings
 email: howard@howardzhao.com
 baseurl: ""
-paginate: 10
+paginate: 50
 paginate_path: "/pages/page-:num/"
 # google_analytics: UA-25085903-1
 defaultpostimg: /assets/img/img-default-01.jpg
